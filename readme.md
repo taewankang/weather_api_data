@@ -2,5 +2,5 @@
 
 ## prototype
 
-![api_image](api_image.png)
+![api_image](./image/api_image.png)
 
