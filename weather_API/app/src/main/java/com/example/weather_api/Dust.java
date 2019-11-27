@@ -73,6 +73,7 @@ public class Dust extends AppCompatActivity {
                 if(textView1.getText().toString() == "")
                     excep();
             } catch (Exception e) {
+                excep();
                 e.printStackTrace();
             }
             return null;

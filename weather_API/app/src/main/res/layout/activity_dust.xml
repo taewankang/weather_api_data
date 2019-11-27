@@ -31,5 +31,4 @@
             android:id="@+id/textView2"
             style="@style/yellowText"/>
     </LinearLayout>
-
 </LinearLayout>
